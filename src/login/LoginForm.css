@@ -1,0 +1,13 @@
+Form {
+    width: 500px;
+    border: 1px solid silver;
+    margin: 25px auto;
+    padding: 25px;
+}
+#username, #password {
+    width: 150px;
+}
+.center {
+    text-align: center;
+    padding: 30px 0;
+}
